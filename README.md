@@ -9,3 +9,4 @@
 # 42 Common Core
 [![196072481-d6070db0-93aa![Uploading 7d38b9dd-7ffd-4590-a972-4868cbda42c1.png…]()
 -4d6a-a9c7-e014c04ec27f](https://github.com/user-attachments/assets/dc24d388-40c9-49d5-a07a-713b5df20a06)](https://github.com/catlover4242/libft)
+[![173256575-01f63708-e5c9-4fe9-8d14-38fc7a397ef8](https://github.com/user-attachments/assets/101613ad-34a0-4e57-aa60-2cbdab5ace47)](https://github.com/catlover4242/get_next_line)
