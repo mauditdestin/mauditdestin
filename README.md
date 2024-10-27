@@ -1,7 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/28900d56-72e9-4e1b-8aa3-1cf1d912b1ad)
 
 # Personal Projects
-[![7d38b9dd-7ffd-4590-a972-4868cbda42c1](https://github.com/user-attachments/assets/8540e942-272c-4a2d-8f60-f68f1d78bef9)](https://github.com/catlover4242/november)
+<a href="https://github.com/catlover4242/november">
+    <img src="https://github.com/user-attachments/assets/8540e942-272c-4a2d-8f60-f68f1d78bef9" alt="7d38b9dd-7ffd-4590-a972-4868cbda42c1" width="200"/>
+</a>
+
 
 # 42 Common Core
 [![196072481-d6070db0-93aa![Uploading 7d38b9dd-7ffd-4590-a972-4868cbda42c1.png…]()
