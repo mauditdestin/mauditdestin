@@ -5,7 +5,7 @@
     <img src="https://github.com/user-attachments/assets/13995b93-59e9-463f-8817-bbf3c1bbcc53" alt="7d38b9dd-7ffd-4590-a972-4868cbda42c1" width="150"/>
 </a>
 <a href="https://www.github.com/catlover4242/paulfolio">
-    <img src="https://fr.pinterest.com/pin/2251868536931367/"  alt="paulfolio" width="150"/>
+    <img src="https://i.pinimg.com/736x/b7/76/20/b77620bdf9ae9f3629a0fca12845affb.jpg"  alt="paulfolio" width="150"/>
 </a>
 
 
