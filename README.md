@@ -1,19 +1,24 @@
 # Le code est aussi bancal que ma santé mentale.
 ![banner](https://github.com/user-attachments/assets/28900d56-72e9-4e1b-8aa3-1cf1d912b1ad)
 
-# Personal Projects
-<a href="https://github.com/catlover4242/november">
-    <img src="https://github.com/user-attachments/assets/13995b93-59e9-463f-8817-bbf3c1bbcc53" alt="7d38b9dd-7ffd-4590-a972-4868cbda42c1" width="150"/>
-</a>
-<a href="https://www.github.com/catlover4242/november.lol">
-    <img src="https://i.postimg.cc/P5wSjzNm/icon.png"  alt="november.lol" width="150"/>
-</a>
-<a href="https://www.github.com/catlover4242/paulfolio">
-    <img src="https://i.postimg.cc/qBwPTRkx/default-veille-removebg-preview.png" width="150">
-</a>
+## About me
+Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havre. Passionate about cybersecurity, and innovation, I blend creativity and technology to build pretty cool projects ! ⭐
 
-# 42 Common Core
-[![libftm](https://github.com/user-attachments/assets/88046641-1ad9-4691-b261-327bccdee651)](https://github.com/catlover4242/libft)
-[![173256575-01f63708-e5c9-4fe9-8d14-38fc7a397ef8](https://github.com/user-attachments/assets/101613ad-34a0-4e57-aa60-2cbdab5ace47)](https://github.com/catlover4242/get_next_line)
-[![ft_printfm](https://github.com/user-attachments/assets/e78f0f38-ddb0-490e-b2ab-a5fd48d6bb6d)](https://github.com/catlover4242/ft_printf)
-[![push_swapm](https://github.com/user-attachments/assets/dd2ae8cb-e0bc-4a07-9502-5e7421318f4c)](https://github.com/catlover4242/push_swap)
+## 42 Projects
+- 📚 **Libft** : First static library in C. 125/125 ! ✅
+- 🖨️ **Ft_Printf** : Rebuild the printf function in C. ??/100 ❓
+- 🌐 **Get Next Line** : Implements a C function to efficiently read a line from a file or standard input. ??/100 ❓
+- 🪐 **Push Swap** : Sorting algorithm in C. ??/100 ❓
+
+## Personnal Projects
+- 💭 **Paulfolio** : Portfolio: A personal showcase of my projects, skills, and experience, built with HTML, CSS, and JavaScript, designed to highlight my journey as a developer.
+- 🍂 **November.lol** : A website for my discord server, pretty simple and cool.
+- 🤖 **Bot November** A versatile Discord bot packed with numerous features, built to enhance and automate interactions within the November server.
+
+## Contact me
+
+<p align="center">
+  <a href="https://www.discord.gg/november"><img src="https://camo.githubusercontent.com/1f41c708a67233512bef2bb4600f9bed1bd0bff23a77a1a74130294d2f5a62a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264" alt="Discord" width="30" /></a>
+  <a href="https://www.instagram.com/iampaulux"></a><img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram" width="30" />
+  <a href="https://www.x.com/jsuisunchaat"></a><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="Twitter" width="30" />
+</p>
