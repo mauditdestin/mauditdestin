@@ -30,6 +30,6 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 
 <p align="center">
   <a href="https://www.discord.gg/november"><img src="https://camo.githubusercontent.com/1f41c708a67233512bef2bb4600f9bed1bd0bff23a77a1a74130294d2f5a62a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264" alt="Discord" width="50" /></a>
-  <a href="https://www.instagram.com/iampaulux"></a><img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram" width="50" />
-  <a href="https://www.x.com/jsuisunchaat"></a><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="Twitter" width="50" />
+  <a href="https://www.instagram.com/iampaulux"><img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram" width="50" /></a>
+  <a href="https://www.x.com/jsuisunchaat"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="Twitter" width="50" /></a>
 </p>
