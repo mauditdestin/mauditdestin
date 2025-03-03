@@ -22,7 +22,12 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 - 🤖 **Bot November** : A versatile Discord bot packed with numerous features, built to enhance and automate interactions within the November server.
 - 🆘 **Helpember** : Helpember is an application built in Flutter, used to help people in distress. This app is made for people who may experience (sexual) assault on the street.
 
-## Current Skills 🧠
+## Learning 🧠
+
+- 🐋 **Docker** : I'm a total beginner, just starting to understand Docker and its purpose.
+- 🐍 **Python** : I'm an intermediate Python learner, still reinforcing the basics to build a solid foundation.
+- ⚙️ **C/C++** : As a 42 student, I have strong fundamentals in C/C++, but I keep learning to expand my skills.
+- 🛡️ **SysAdmin** :  I'm totally new to sysadmin and currently learning the basics of server setup and management.
 
 <p align="center">
 
