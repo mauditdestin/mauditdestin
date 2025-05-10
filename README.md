@@ -20,7 +20,6 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 - 💭 **Paulfolio** : Portfolio: A personal showcase of my projects, skills, and experience, built with HTML, CSS, and JavaScript, designed to highlight my journey as a developer.
 - 🍂 **November.lol** : A website for my discord server, pretty simple and cool.
 - 🤖 **Bot November** : A versatile Discord bot packed with numerous features, built to enhance and automate interactions within the November server.
-- 🆘 **Helpember** : Helpember is an application built in Flutter, used to help people in distress. This app is made for people who may experience (sexual) assault on the street.
 
 ## Learning 🧠
 
