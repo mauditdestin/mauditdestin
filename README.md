@@ -5,7 +5,7 @@
 
 Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havre. Passionate about cybersecurity, and innovation, I blend creativity and technology to build pretty cool projects ! ⭐
 
-## 42 Projects 🏫  
+## 42 Projects 🏫
 
 - 📚 **Libft** : First static library in C. 125/125 ! ✅
 - 🖨️ **Ft_Printf** : Rebuild the printf function in C. ??/100 ❓
