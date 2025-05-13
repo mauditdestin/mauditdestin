@@ -2,7 +2,7 @@
 ![banner](https://github.com/user-attachments/assets/28900d56-72e9-4e1b-8aa3-1cf1d912b1ad)
    
 ## About me
-
+    
 Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havre. Passionate about cybersecurity, and innovation, I blend creativity and technology to build pretty cool projects ! ⭐ 
    
 ## 42 Projects 🏫 
