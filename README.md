@@ -16,7 +16,7 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 - 💫 **Philosophers** : Simulating the dining philosophers problem to explore concurrency and synchronization. ??/100 ❓
 
 ## Personnal Projects 📁 
-
+ 
 - 💭 **Paulfolio** : Portfolio: A personal showcase of my projects, skills, and experience, built with HTML, CSS, and JavaScript, designed to highlight my journey as a developer.
 - 🍂 **November.lol** : A website for my discord server, pretty simple and cool.
 - 🤖 **Bot November** : A versatile Discord bot packed with numerous features, built to enhance and automate interactions within the November server.
