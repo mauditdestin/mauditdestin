@@ -1,5 +1,6 @@
 # Le code est aussi bancal que ma santé mentale.
-![githubbanner](https://github.com/user-attachments/assets/d36a3b17-675b-49b5-b0fb-43936f2399da)
+![githubbanner](https://github.com/user-attachments/assets/1a47ded3-7cad-4395-997c-3668f8552ada)
+
 
 ## About me 
      
