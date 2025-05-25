@@ -1,6 +1,6 @@
 # Le code est aussi bancal que ma santé mentale.
-![banner](https://github.com/user-attachments/assets/28900d56-72e9-4e1b-8aa3-1cf1d912b1ad)
-   
+![githubbanner](https://github.com/user-attachments/assets/d36a3b17-675b-49b5-b0fb-43936f2399da)
+
 ## About me 
      
 Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havre. Passionate about cybersecurity, and innovation, I blend creativity and technology to build pretty cool projects ! ⭐ 
