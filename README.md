@@ -7,7 +7,7 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
    
 ## 42 Projects 🏫  
  
-- 📚 **Libft** : First static library in C. 125/125 ! ✅
+- 📚 **Libft** : First static library in C. 125/100 ! ✅
 - 🖨️ **Ft_Printf** : Rebuild the printf function in C. ??/100 ❓
 - 🌐 **Get Next Line** : Implements a C function to efficiently read a line from a file or standard input. ??/100 ❓
 - 🪐 **Push Swap** : Sorting algorithm in C. ??/100 ❓
