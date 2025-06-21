@@ -12,7 +12,7 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 - 🖨️ **Ft_Printf** : Rebuild the printf function in C. ??/100 ❓
 - 🌐 **Get Next Line** : Implements a C function to efficiently read a line from a file or standard input. ??/100 ❓
 - 🪐 **Push Swap** : Sorting algorithm in C. ??/100 ❓
-- ✨ **Minitalk** : Recreating the Unix pipeline (|) to chain command outputs and inputs. ??/100 ❓
+- ✨ **Minitalk** : Recreating interprocess communication using UNIX signals to send messages between a client and a server. ??/100 ❓
 - ❄️ **So_long** : Creating a 2D game using the 42's Minilibx graphic library. ??/125 ❓
 - 💫 **Philosophers** : Simulating the dining philosophers problem to explore concurrency and synchronization. ??/100 ❓
 
