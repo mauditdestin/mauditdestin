@@ -22,7 +22,7 @@ Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havr
 - 🍂 **November.lol** : A website for my discord server, pretty simple and cool.
 - 🤖 **Bot November** : A versatile Discord bot packed with numerous features, built to enhance and automate interactions within the November server.
 
-## Learning 🧠
+## Learning 🧠 
 
 - 🐋 **Docker** : I'm a total beginner, just starting to understand Docker and its purpose.
 - 🐍 **Python** : I'm an intermediate Python learner, still reinforcing the basics to build a solid foundation.
