@@ -5,7 +5,7 @@
 ## About me 
        
 Hi there ! I'm a friendly developer, tech enthusiast and a student at 42 Le Havre. Passionate about cybersecurity, and innovation, I blend creativity and technology to build pretty cool projects ! ⭐ 
-    
+     
 ## 42 Projects 🏫  
  
 - 📚 **Libft** : First static library in C. 125/100 ! ✅
